@@ -38,19 +38,19 @@ to activate the environment with:
 conda activate aqgeo_pdemag
 ```
 
-## Run JupyterLab
+## Run Jupyter Notebook
 
-After we activated the environment, let's start JupyterLab, where we can open,
+After we activated the environment, let's start a Jupyter notebook, where we can open,
 edit and execute the notebooks:
 
 ```bash
-jupyterlab
+jupyter notebook
 ```
 
-I will automatically open a new tab in your browser with the Jupyter Lab, where
+I will automatically open a new tab in your browser with the Jupyter notebook, where
 you can navigate into the `notebooks` folder and open any of the notebooks
 you'll find there.
 
 > [!IMPORTANT]
 > It's important not to close the terminal (or Prompt) window while you are
-> using Jupyter Lab. Closing the terminal will make Jupyter Lab to quit.
+> using the Jupyter notebook. Closing the terminal will quit the Jupyter notebook.
