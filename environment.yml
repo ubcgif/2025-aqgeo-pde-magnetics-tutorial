@@ -3,9 +3,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.13.9
-  - choclo=0.3.2
-  - simpeg=0.25.0
-  - pandas=2.3.3
-  - notebook=7.4.7
-  - scikit-learn=1.7.2
+  - python=3.13.*
+  - choclo=0.3.*
+  - simpeg=0.25.*
+  - pandas=2.3.*
+  - notebook=7.4.*
+  - scikit-learn=1.7.*
