@@ -22,6 +22,12 @@ Then, download this repository as a [zip file][repo-zip], or clone it with `git`
 git clone https://github.com/ubcgif/2025-aqgeo-pde-magnetics-tutorial
 ```
 
+### Navigate to the folder
+
+```bash
+cd 2025-aqgeo-pde-magnetic-tutorial
+```
+
 ### Create a new conda environment
 
 In the downloaded folder you'll find an `environment.yml` file that you can use
@@ -54,3 +60,8 @@ you'll find there.
 > [!IMPORTANT]
 > It's important not to close the terminal (or Prompt) window while you are
 > using the Jupyter notebook. Closing the terminal will quit the Jupyter notebook.
+
+[anaconda]: https://anaconda.org
+[miniconda]: https://docs.anaconda.com/miniconda/miniconda-install
+[miniforge]: https://github.com/conda-forge/miniforge
+[repo-zip]: https://github.com/ubcgif/2025-aqgeo-pde-magnetics-tutorial/archive/refs/heads/main.zip
