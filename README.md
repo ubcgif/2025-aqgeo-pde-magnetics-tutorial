@@ -16,21 +16,31 @@ Follow the instructions provided by any of them to install it in your system.
 
 ### Download the repository
 
-Then, download this repository as a [zip file][repo-zip], or clone it with `git`:
+Then, download this repository as a [zip file][repo-zip] and extract it.
+Or clone it with `git`:
 
 ```bash
 git clone https://github.com/ubcgif/2025-aqgeo-pde-magnetics-tutorial
 ```
 
-### Navigate to the folder
+### Create a new conda environment
+
+First, navigate to the downloaded folder using the `cd` command:
 
 ```bash
 cd 2025-aqgeo-pde-magnetic-tutorial
 ```
 
-### Create a new conda environment
+> [!TIP]
+> If you downloaded the repository as a zip file, the extracted folder might be
+> called `2025-aqgeo-pde-magnetic-tutorial-main`. Take that into account when
+> navigating into that folder:
+>
+> ```bash
+> cd 2025-aqgeo-pde-magnetic-tutorial-main
+> ```
 
-In the downloaded folder you'll find an `environment.yml` file that you can use
+In that folder you'll find an `environment.yml` file that you can use
 to create a conda environment by running:
 
 ```bash
